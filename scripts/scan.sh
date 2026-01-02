@@ -1,1 +1,4 @@
-# TODO: write the script
+sell script
+eco
+ssn
+pone num
